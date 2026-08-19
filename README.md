@@ -17,3 +17,8 @@ As part of the project team, my main contributions focused on exploratory data a
 - Examined customer tenure alongside AOV to compare regional customer behaviour and identify provinces combining stronger customer relationships with higher order values.
 - Used order-level data to explore repeat purchasing, customer retention, product purchasing patterns, and opportunities to increase basket value.
 - Translated the analysis into practical recommendations focused on retention, increasing basket value, and testing regional strategies before scaling them.
+## How to Navigate the Repo
+- **data/** – Contains the cleaned dataset used for the analysis.
+- **notebooks/** – Contains the Python notebook used for data cleaning and preparation.
+- **visuals/** – Contains key charts from the analysis, including sales growth, customer retention, AOV performance, and regional opportunities.
+- **README.md** – Provides an overview of the project, my contributions, key skills, and major findings.

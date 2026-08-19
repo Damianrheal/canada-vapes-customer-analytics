@@ -22,3 +22,5 @@ As part of the project team, my main contributions focused on exploratory data a
 - **notebooks/** – Contains the Python notebook used for data cleaning and preparation.
 - **visuals/** – Contains key charts from the analysis, including sales growth, customer retention, AOV performance, and regional opportunities.
 - **README.md** – Provides an overview of the project, my contributions, key skills, and major findings.
+- ## Privacy / Client Note
+This repository is intended for academic and portfolio purposes. The project data and materials shared here are limited to content permitted for use, and no confidential or personally identifiable client information is included.
